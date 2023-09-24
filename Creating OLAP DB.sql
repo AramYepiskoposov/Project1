@@ -1,3 +1,7 @@
+--Here I am creating an OLAP Database from this raw data: MyShop_RawData
+
+
+
 
 --Lets replace "employee_name" and "employee_address" columns
 --with employee_id column, so lets delete one of the 2 columns
